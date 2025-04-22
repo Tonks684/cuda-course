@@ -189,7 +189,7 @@ As we mine further into detail, I encourage you to research and play around with
     - link picture of UI here
 - Lambda Labs
     - Cheap datacenter GPUs
-## Compilers
+## Compilers (translates source code into object code (machine code 011010) which can be directly understand by GPU/CPU
 - XLA
     - A domain-specific compiler for linear algebra that optimizes TensorFlow computations
     - Provides a lower-level optimization and code generation backend for JAX
